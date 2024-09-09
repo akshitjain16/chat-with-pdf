@@ -1,0 +1,4 @@
+shadcn for ui elements
+cleck for authentication
+lucide-react for functionality
+npm install --save react-dropzone for drag and drop or upload files
